@@ -1,4 +1,6 @@
 # Remember to run the following commands!
+# git clone https://github.com/Chiesi/ai_ml_deep_learning
+# pyenv activate example_rag
 # pip install pandas
 # pip install matplotlib
 # pip install scikit-learn
